@@ -21,7 +21,7 @@ namespace sontopiw2
                 {
                     Console.WriteLine("Siz faqat 1 va 100 oraliqda kirita olasiz; ");
                     count1++;
-                    goto kirit;
+                    goto kirit:
                 }
                 else
                 {
